@@ -1,5 +1,4 @@
-
-# Created by https://www.gitignore.io/api/vim,virtualenv,sublimetext,visualstudio
+config.ini
 
 ### SublimeText ###
 # Cache files for Sublime Text
